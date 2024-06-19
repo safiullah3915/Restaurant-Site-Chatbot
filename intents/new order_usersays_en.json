@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c37c043d-af2b-4e9c-ba7f-688ec9f3dd7f",
+    "data": [
+      {
+        "text": "Start a new acquisition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59a155ed-56d7-4eb5-b862-74ba930b119d",
+    "data": [
+      {
+        "text": "Initiate a new purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9366d45-72ab-4a40-9bb9-301bb38e8e3c",
+    "data": [
+      {
+        "text": "Submit a fresh order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59929c2e-29ee-42f9-8c87-fe67888f5de1",
+    "data": [
+      {
+        "text": "place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "827acd5e-4a66-4469-aea2-df40524d9b8a",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
